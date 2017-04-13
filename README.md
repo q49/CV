@@ -13,5 +13,5 @@ Major: Computer science
 ## Skills
 * *OS:* Linux, Windows
 * *Programming:* COBOL
-* *Design:*Photoshop, Illustrator, Corel Draw, Autocad
-* *and HTML5.0, Linux server, Win server whatever :D
+* *Design:* Photoshop, Illustrator, Corel Draw, Autocad
+* *and HTML5.0, Linux server, Win server - whatever :D
